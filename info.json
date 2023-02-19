@@ -1,0 +1,59 @@
+{
+    "alts": {
+        "groups": {
+            "group1": {
+                "alt1": [],
+                "alt2": [],
+                "alt3": [],
+                "alt4": []
+            },
+            "group2": {
+                "alt5": [],
+                "alt6": [],
+                "alt7": [],
+                "alt8": []
+            },
+            "group3": {
+                "alt9": [],
+                "alt10": [],
+                "alt11": [],
+                "alt12": []
+            },
+            "group4": {
+                "alt13": [],
+                "alt14": [],
+                "alt15": [],
+                "alt16": []
+            },
+            "group5": {
+                "alt17": [],
+                "alt18": [],
+                "alt19": [],
+                "alt20": []
+            },
+            "group6": {
+                "alt21": [],
+                "alt22": [],
+                "alt23": [],
+                "alt24": []
+            },
+            "group7": {
+                "alt25": [],
+                "alt26": [],
+                "alt27": [],
+                "alt28": []
+            },
+            "group8": {
+                "alt29": [],
+                "alt30": [],
+                "alt31": [],
+                "alt32": []
+            }
+        },
+        "info": {
+            "owners": {},
+            "total_pets": 0,
+            "total_owners": 0
+        }
+    }
+}
