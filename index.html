@@ -11,7 +11,7 @@
     <p id="inventory"></p>
     <script>
       function getInventoryData() {
-        fetch("https://raw.githubusercontent.com/BonesIsUseful/Alt-Display/main/inventory.json")
+        fetch("inventory.json")
           .then((response) => response.json())
           .then((data) => {
             document.getElementById("inventory").textContent = JSON.stringify(data);
